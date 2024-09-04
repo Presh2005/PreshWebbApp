@@ -63,4 +63,4 @@ jobs:
           app-name: 'PreshWebApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06F07C98CA8B4D3AB9EFBC67DD64D021 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_768E10F52DAE4CFBA243344950A5A47D }}
